@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.clock {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
+
+.date{
+  float:left;
+}
