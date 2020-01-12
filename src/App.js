@@ -11,7 +11,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p> 
-          kasra jannati : 101237299
+          kasra jannati
+          st id: 101237299
           </p>
         <a
           className="App-link"
