@@ -1,3 +1,8 @@
+## Group activity
+Kasra Jannati - kasraJannati
+Dixin Xu - Rhinocerosbomb
+Sakib Haider - saki-bph
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
